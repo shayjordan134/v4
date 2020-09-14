@@ -149,7 +149,7 @@ const About = () => {
 
             <p>
               I am also the president of{' '}
-              <a href="https://bit.ly/mathsoc/">UEA MathSoc</a>, and I am a second degree black belt and instructor in 
+              <a href="https://bit.ly/mathsoc/">UEA MathSoc</a>, and I am a second degree black belt and instructor in{' '}
               <a href="https://www.kuksoolwonlowestoft.co.uk/">Kuk Sool Won</a>.
             </p>
 
