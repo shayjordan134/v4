@@ -1,12 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2019-06-24'
+title: 'Personal Shopper'
+company: 'Tesco'
+location: 'Great Yarmouth'
+range: 'June 2019 - April 2020 periodically'
+url: 'https://www.tesco.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Working efficiently, exceeding targets in collecting items from shop floor during peak times to fulfil online grocery orders
+- Providing excellent customer service to customers in store
+- Working as part of a team to achieve goals and quotas set by management
+- Working during COVID-19 lockdown - a period of largely increased demand
