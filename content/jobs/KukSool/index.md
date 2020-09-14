@@ -1,7 +1,7 @@
 ---
 date: '2016-04-01'
 title: 'Martial Arts Instructor'
-company: 'Kuk Sool Won of Lowestoft'
+company: 'Kuk Sool Won'
 location: 'Lowestoft'
 range: 'April 2016 - Present'
 url: 'https://kuksoolwonlowestoft.co.uk/'
