@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Shay Jordan',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Shay Jordan is a Master of Mathematics student at UEA, Norwich with a particulat interest in pure mathematical topics around combinatorics and algebra; and a second degree black belt in Kuk Sool Won.',
+    siteUrl: 'https://shayjordan.co.uk', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@sh4yj',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'ShayJordan',
+        short_name: 'ShayJordan',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
