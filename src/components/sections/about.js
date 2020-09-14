@@ -141,22 +141,19 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Shay, a Master of Mathematics Student in Norwich, UK.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I have a particulat interest in Mathematical topics relating to combinatorics and algebra, and hope to pursue research in this field one day.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I am also the president of{' '}
+              <a href="https://bit.ly/mathsoc/">UEA MathSoc</a>, and I am a second degree black belt and instructor in 
+              <a href="https://www.kuksoolwonlowestoft.co.uk/">Kuk Sool Won</a>.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few of my most prominent skills:</p>
           </div>
 
           <ul className="skills-list">
